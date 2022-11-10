@@ -1,2 +1,2 @@
 # OpenGameEditor
-Game creation editor with GPL3 license
+Game editor written in java with GPL3 license
